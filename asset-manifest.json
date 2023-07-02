@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra_cars_custom_table/static/css/main.ef43d4d2.css",
+    "main.js": "/cra_cars_custom_table/static/js/main.dae70159.js",
+    "index.html": "/cra_cars_custom_table/index.html",
+    "main.ef43d4d2.css.map": "/cra_cars_custom_table/static/css/main.ef43d4d2.css.map",
+    "main.dae70159.js.map": "/cra_cars_custom_table/static/js/main.dae70159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef43d4d2.css",
+    "static/js/main.dae70159.js"
+  ]
+}
